@@ -1,0 +1,519 @@
+sg	Sài Gòn
+acc	account
+a	anh
+ace	anh chị em
+ae	anh em
+any	anh người yêu
+atrai	anh trai
+aye	anh yêu em
+3	ba
+3*	ba sao
+beamin	baemin
+baoh	bao giờ
+bnhiu	bao nhiêu
+bnhiêu	bao nhiêu
+bnhieu	bao nhiêu
+pjt	biết
+bik	biết
+biet	biết
+biêt	biết
+bjt	biết
+bos	boss
+buger	burger
+buôg	buông
+bsvv	buổi sáng vui vẻ
+bsĩ	bác sĩ
+bjo	bây giờ
+bâyh	bây giờ
+bh	bây giờ
+bìh	bình
+bthường	bình thường
+bth	bình thường
+bthg	bình thường
+bóg	bóng
+pn	bạn
+bn	bạn
+bbè	bạn bè
+bgái	bạn gái
+btrai	bạn trai
+b oi	bạn ơi
+7	bảy
+bằg	bằng
+bme	bố mẹ
+4	bốn
+4*	bốn sao
+bụg	bụng
+keke	ce ce
+cka	cha
+chạh	chanh
+chug	chung
+chuện	chuyện
+cbị	chuẩn bị
+chàg	chàng
+9	chín
+note	chú ý
+chúg	chúng
+cmày	chúng mày
+cta	chúng ta
+chta	chúng ta
+chăg	chăng
+ctrinh	chương trình
+ctrình	chương trình
+ctr	chương trình
+chs	chẳng hiểu sao
+c	chị
+cj	chị
+ce	chị em
+terrable	chịu đựng
+ck	chồng
+chk	chồng
+cmnd	chứng minh nhân dân
+cmt	comment
+cgai	con gái
+cgái	con gái
+cmm	con mẹ mày
+cmn	con mẹ nó
+cmnr	con mẹ nó rồi
+ctrai	con trai
+ctraj	con trai
+ku	cu
+csống	cuộc sống
+csong	cuộc sống
+cđời	cuộc đời
+cf	cà phê
+cafe	cà phê
+càg	càng
+kái	cái
+clmm	cái lồn mẹ mày
+kòn	còn
+cty	công ty
+ctác	công tác
+cviec	công việc
+cùg	cùng
+kũg	cũng
+cx	cũng
+cũg	cũng
+cũng z	cũng vậy
+hihe	cười
+hahah	cười
+ho ho	cười
+hoho	cười
+hôhô	cười
+hịhi	cười
+hehe	cười
+heheheh	cười
+hehehe	cười
+haha	cười
+hâhahah	cười
+kảm	cảm
+kậu	cậu
+kủa	của
+cuả	của
+dàh	dành
+zám	dám
+dòg	dòng
+zô	dô
+dứoi	dưới
+dzậy	dậy
+dthương	dễ thương
+dỡ	dở
+dừg	dừng
+zữ	dữ
+e	em
+eya	em yêu anh
+fb	facebook
+face	facebook
+facebok	facebook
+fody	foody
+fom	form
+phom	form
+freze	freeze
+fen	friend
+ful	full
+gđình	gia đinh
+gđ	gia đình
+zà	già
+giá cả sinh viên	giá rẻ
+giá sinh viên	giá rẻ
+dòn	giòn
+zòn	giòn
+zdòn	giòn
+júp	giúp
+giốg	giống
+giọg	giống
+jo	giờ
+gogle	google
+grentea	green tea
+rì	gì
+j	gì
+ji	gì
+gắg	gắng
+hajz	hai
+hajzz	hai
+haj	hai
+2	hai
+2*	hai sao
+haz	hazz
+hiha	hi ha
+hjhj	hi hi
+hjx	hix
+hjxhjx	hix hix
+hixhix	hix hix
+hanoi	hà nội
+hàg	hàng
+hđộng	hành động
+hêhê	hê hê
+hìhì	hì hì
+hìh	hình
+hixxx	hích
+hic	hích
+bil	hóa đơn
+bill	hóa đơn
+hnay	hôm nay
+hqua	hôm qua
+htrc	hôm trước
+hphúc	hạnh phúc
+họk	học
+hkì	học kỳ
+hsơ	hồ sơ
+hong kong	hồng kông
+ib	inbox
+in4	info
+insta	instagram
+kk	kaka
+kakaka	kaka
+kakak	kaka
+kkk	kaka
+khoảg	khoảng
+ks	khách sạn
+khôg	không
+hôg	không
+hok	không
+ko	không
+k	không
+kô	không
+khg	không
+kg	không
+kog	không
+k bjo	không bao giờ
+klq	không liên quan
+hông_may_mắn	không may mắn
+ksao	không sao
+khủg	khủng
+kih	kinh
+kte	kinh tế
+ktra	kiểm tra
+check	kiểm tra
+kỉu	kiểu
+cute	kute
+cute phô mai que	kute
+kêh	kênh
+kb	kết bạn
+kqua	kết quả
+ltinh	linh tinh
+llac	liên lạc
+lmht	liên minh huyền thoại
+lquan	liên quan
+lm	làm
+lzi	làm gì
+lz	làm gì
+lgi	làm gì
+lquen	làm quen
+lòg	lòng
+lúk	lúc
+lạh	lạnh
+lặg	lặng
+loz	lồn
+lozz	lồn
+my fen	my friend
+mih	mình
+mìnk	mình
+mjh	mình
+mk	mình
+mik	mình
+10	mười
+mặp	mập
+mng	mọi người
+mn	mọi người
+mọi ng	mọi người
+mnchu y	mọi người chú ý
+mỏg	mỏng
+mqh	mối quan hệ
+1	một
+1*	một sao
+mớj	mới
+ngag	ngang
+ngke	nghe
+ngèo	nghèo
+ngía	nghía
+nvqs	nghĩa vụ quân sự
+ngon ze kêu	ngon
+ngàh	ngành
+nghành	ngành
+ng	người
+nguoi	người
+ngừoi	người
+nguời	người
+ngkhác	người khác
+ngta	người ta
+nta	người ta
+ngyeu	người yêu
+nyêu	người yêu
+ny	người yêu
+nyc	người yêu cũ
+ngđó	người đó
+ngđo	người đó
+ngốk	ngốc
+nhaa	nha
+nhjeu	nhiều
+nhiềuuu	nhiều
+nviên	nhân viên
+nv	nhân viên
+nhoé	nhé
+nkư	như
+nthe	như thế
+nthê	như thế
+nthế	như thế
+ntnao	như thế nào
+ntn	như thế nào
+ntnày	như thế này
+nvay	như vậy
+nvậy	như vậy
+nkưng	nhưng
+nhưq	nhưng
+nhưg	nhưng
+nhữg	những
+frienfs	những người bạn
+nàg	nàng
+nek	nè
+nèk	nè
+ns	nói
+nch	nói chuyện
+nógn	nóng
+5	năm
+5*	năm sao
+năg	năng
+nướg	nướng
+nắg	nắng
+nặg	nặng
+ofline	offline
+okey	ok
+okela	ok
+okei	ok
+okla	ok
+okê	ok
+okay	ok
+okiela	ok
+oksc	ok
+okoe	ok
+oke	ok
+okila	ok
+Okkkk	ok
+okk	ok
+okkk	ok
+okkkkk	ok
+on lai	online
+onl	online
+ỏrder	order
+phog	phong
+fây	phây
+phòg	phòng
+fải	phải
+puding	pudding
+plz	pờ ly
+qhe	quan hệ
+qhệ	quan hệ
+qtrọng	quan trọng
+qtam	quan tâm
+qtâm	quan tâm
+wtâm	quan tâm
+qà	quà
+qá	quá
+wá	quá
+wa	quá
+qtqđ	quá trời quá đất
+qán	quán
+quí	quý
+qả	quả
+ad	quản trị viên
+qc	quảng cáo
+qq	quằn què
+refil	refill
+riêg	riêng
+răg	răng
+chill	rất thư giãn và dễ chịu
+rằg	rằng
+zồi	rồi
+zùi	rồi
+òy	rồi
+rồii	rồi
+oy	rồi
+seafod	seafood
+seler	seller
+shiper	shipper
+shisa	shisha
+snvv	sinh nhật vui vẻ
+sviên	sinh viên
+svtn	sinh viên tình nguyện
+smothie	smoothie
+sr	sorry
+topings	stopping
+sub	subcribe
+sugest	suggest
+snghĩ	suy nghĩ
+6	sáu
+sp	sản phẩm
+sml	sấp mặt lờ
+stk	số tài khoản
+sđt	số điện thoại
+sốg	sống
+terible	terrible
+tks	thanks
+thíu	thiếu
+thàh	thành
+tphcm	thành phố hồ chí minh
+thỳ	thì
+thjk	thích
+thík	thích
+thjc	thích
+thíck	thích
+thik	thích
+thich	thích
+thíc	thích
+thým	thím
+thoy	thôi
+thuj	thôi
+thôii	thôi
+hoy	thôi
+thui	thôi
+thươg	thương
+thuơng	thương
+thườg	thường
+thằg	thằng
+thẳg	thẳng
+tgdd	thế giới di động
+tnào	thế nào
+tđn	thế đéo nào
+thgian	thời gian
+tgian	thời gian
+tym	tim
+teencode	tin cốt
+tiếg	tiếng
+toping	topping
+troai	trai
+trag	trang
+trieu	triệu
+trog	trong
+thpt	trung học phổ thông
+tq	trung quốc
+trc	trước
+trườg	trường
+trọg	trọng
+8	tám
+tìh	tình
+tcảm	tình cảm
+tyêu	tình yêu
+tíh	tính
+tlai	tương lai
+tưởg	tưởng
+tượg	tượng
+tứk	tức
+từg	từng
+u hai ba	u23
+unf	unfriend
+uốg	uống
+vn	việt nam
+zui	vui
+zdui	vui
+vv	vui vẻ
+vch	vãi chưởng
+vchg	vãi chưởng
+vkl	vãi cái lồn
+vcđ	vãi cả đái
+vl	vãi lồn
+vđ	vãi đái
+vd	ví dụ
+zú	vú
+zăn	văn
+vtau	vũng tàu
+vđê	vấn đề
+vde	vấn đề
+z	vậy
+zậy	vậy
+zạ	vậy
+z là	vậy là
+zẻ	vẻ
+zìa	về
+vọg	vọng
+vớii	với
+vs	với
+vcl	vờ cờ lờ
+vk	vợ
+vc	vợ chồng
+wtf	what the fuck
+xloi	xin lỗi
+xih	xinh
+xink	xinh
+xog	xong
+xg	xuống
+xuốg	xuống
+xug	xùng
+ytb	youtube
+iu	yêu
+yc	yêu cầu
+ak	à
+ah	à
+àk	à
+àh	à
+ák	á
+olong	ô long
+ôg	ông
+ik	ý
+đag	đang
+điiiiiii	đi
+đii	đi
+đjên	điên
+đkiện	điều kiện
+đthoại	điện thoại
+đthoai	điện thoại
+đt	điện thoại
+đth	điện thoại
+dth	điện thoại
+đág	đáng
+đáh	đánh
+đbh	đéo bao giờ
+đhs	đéo hiểu sao
+đóg	đóng
+đôg	đông
+đki	đăng ký
+đky	đăng ký
+dky	đăng ký
+đc	được
+dc	được
+đươc	được
+đuợc	được
+đx	được
+đhọc	đại học
+đhbkhn	đại học bách khoa hà nội
+đhkhtn	đại học khoa học tự nhiên
+đcsvn	đảng cộng sản việt nam
+order	đặt hàng
+đz	đẹp giai
+đzai	đẹp trai
+dz	đẹp trai
+địh	định
+đồg	đồng
+đtqg	đội tuyển quốc gia
+độg	động
+đứg	đứng
+ơiii	ơi
+ơiiii	ơi
+ạk	ạ
+ạh	ạ
+atsm	ảo tưởng sức mạnh
+ốpla	ốp la
+oh	ồ
+uh	ừ
+uk	ừ
+uhm	ừm
+ukm	ừm

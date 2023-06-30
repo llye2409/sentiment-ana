@@ -50,8 +50,8 @@ with open('Data/files/special_phrases.txt', encoding='utf-8') as file:
 report_df = pd.read_csv('Data/report.csv')
 
 
-max_words = 5400
-max_len = 75
+max_words = 6500
+max_len = 100
 
 
 # Chuẩn hóa unicode tiếng việt
